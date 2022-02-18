@@ -1,4 +1,0 @@
-ft home logo that changes color each page click
-collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
-imbed web browser (side by side html loading) in a data explorer page
-embedded tweets on news page

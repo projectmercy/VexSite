@@ -1,0 +1,6 @@
+fix title header of nav bar https://www.codespeedy.com/create-a-transparent-navigation-bar-using-css/
+ft home logo that changes color each page click
+collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
+imbed web browser (side by side html loading) in a data explorer page
+embedded tweets on news page
+iframe websites that don't allow and/or screenshot websites and embed
