@@ -6,7 +6,7 @@
 • iframe websites that don't allow and/or screenshot websites and embed
 • retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
 • URL page visibility
-• Git backend
+• Git backend check
 • tooltip (Resource Intensive - May use 550MB+ of VRAM)
 • refine tooltips https://atomiks.github.io/tippyjs/
 
