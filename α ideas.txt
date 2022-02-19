@@ -4,3 +4,34 @@ collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
 imbed web browser (side by side html loading) in a data explorer page
 embedded tweets on news page
 iframe websites that don't allow and/or screenshot websites and embed
+retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
+URL page visibility
+Git backend
+
+
+Dashboards.html
+<!-- Covid
+John Hopkins https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR1l6VMg9ww8xS1Cqi0YwOLZqnwfaa8tK-LZQUvMbkv9bNnxiC2piDJBqJI#/bda7594740fd40299423467b48e9ecf6
+Ottawa Covid cases dashboard https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx?_mid_=32067
+
+Threat maps 
+https://threatmap.fortiguard.com/
+https://livethreatmap.radware.com/
+
+Weather
+Global Live Weather - https://www.windy.com/
+Weather Radar - https://www.accuweather.com/en/us/national/weather-radar
+
+Finance
+Finviz (stocks) https://finviz.com/map.ashx?t=sec
+Heatmap (Stocks)  https://www.finscreener.org/map/crypto-heatmap
+Crypto (Main and alt coins) https://cryptowat.ch/
+
+San Antonio Power Usage https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1633499433124&to_ts=1641275433124&live=true
+
+Other
+Microsoft CVEs https://msrc.microsoft.com/update-guide/vulnerability
+Open CVEs https://www.opencve.io/cve?cvss=critical
+Google Dashboard https://myaccount.google.com/dashboard
+Microsoft Power Bi [Various] 
+-->
