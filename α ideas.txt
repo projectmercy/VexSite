@@ -1,12 +1,39 @@
-fix title header of nav bar https://www.codespeedy.com/create-a-transparent-navigation-bar-using-css/
-ft home logo that changes color each page click
-collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
-imbed web browser (side by side html loading) in a data explorer page
-embedded tweets on news page
-iframe websites that don't allow and/or screenshot websites and embed
-retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
-URL page visibility
-Git backend
+• fix title header of nav bar https://www.codespeedy.com/create-a-transparent-navigation-bar-using-css/
+• ft home logo that changes color each page click
+• collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
+• imbed web browser (side by side html loading) in a data explorer page
+• embedded tweets on news page
+• iframe websites that don't allow and/or screenshot websites and embed
+• retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
+• URL page visibility
+• Git backend
+• tooltip (Resource Intensive - May use 550MB+ of VRAM)
+• refine tooltips https://atomiks.github.io/tippyjs/
+
+
+
+
+
+
+• License, update readme, example below
+*(This project is released under the [MIT license](https://raw.github.com/paulkinzett/toolbar/master/LICENSE.txt).)*
+Copyright (c) 2013 - 2015 Paul Kinzett (http://kinzett.co.nz/)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Dashboards.html
