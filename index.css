@@ -31,11 +31,11 @@ nav{
   box-shadow: 0 0 25px 0 black;
 }
 nav ul{
-  float: right;
+  float: left;
   margin-right: 30px;
 }
 nav ul{
-  float: right;
+  float: left;
   margin-right: 30px;
 }
 nav ul li{
