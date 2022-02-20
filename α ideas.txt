@@ -8,8 +8,8 @@
 • URL page visibility
 • Git backend check
 • refine tooltips https://atomiks.github.io/tippyjs/
-• Snowflake/JS button https://sebhastian.com/javascript-change-background-image/
-
+• Snowflake/JS button [cycle] https://sebhastian.com/javascript-change-background-image/
+• Try different font famalies https://fonts.google.com/noto/specimen/Noto+Sans+JP
 
 
 
