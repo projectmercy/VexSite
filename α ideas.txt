@@ -7,9 +7,8 @@
 • retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
 • URL page visibility
 • Git backend check
-• tooltip (Resource Intensive - May use 550MB+ of VRAM)
 • refine tooltips https://atomiks.github.io/tippyjs/
-
+• Snowflake/JS button https://sebhastian.com/javascript-change-background-image/
 
 
 
