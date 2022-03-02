@@ -10,7 +10,8 @@
 • refine tooltips https://atomiks.github.io/tippyjs/
 • Snowflake/JS button [cycle] https://sebhastian.com/javascript-change-background-image/
 • Try different font famalies https://fonts.google.com/noto/specimen/Noto+Sans+JP
-
+• multiple CSS sheets invoked by javascript cached in browser
+• add owasp https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
 
 
 
