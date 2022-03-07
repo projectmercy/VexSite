@@ -12,7 +12,7 @@
 • Try different font famalies https://fonts.google.com/noto/specimen/Noto+Sans+JP
 • multiple CSS sheets invoked by javascript cached in browser
 • add owasp https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
-
+• add Red Teaming Experiments https://www.ired.team/offensive-security/defense-evasion/evading-windows-defender-using-classic-c-shellcode-launcher-with-1-byte-change
 
 
 
