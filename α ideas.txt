@@ -1,10 +1,12 @@
+---Fixes | Updates | Improvements---
 • fix title header of nav bar https://www.codespeedy.com/create-a-transparent-navigation-bar-using-css/
-• ft home logo that changes color each page click
+• ft home logo that changes color each page click - https://www.quora.com/How-will-I-add-a-logo-or-an-image-in-top-left-corner-of-my-web-page
+• link preview for website https://andrejgajdos.com/how-to-create-a-link-preview/
 • collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
 • imbed web browser (side by side html loading) in a data explorer page
 • embedded tweets on news page
 • iframe websites that don't allow and/or screenshot websites and embed
-• retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
+• retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/ - https://www.ostraining.com/blog/webdesign/create-navmenu-with-flexbox/ - https://www.youtube.com/watch?v=PwWHL3RyQgk&ab_channel=Skillthrive
 • URL page visibility
 • Git backend check
 • refine tooltips https://atomiks.github.io/tippyjs/
@@ -13,10 +15,7 @@
 • multiple CSS sheets invoked by javascript cached in browser
 • add owasp https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
 • add Red Teaming Experiments https://www.ired.team/offensive-security/defense-evasion/evading-windows-defender-using-classic-c-shellcode-launcher-with-1-byte-change
-
-
-
-
+• “vs code contains emphasized items” https://www.codegrepper.com/code-examples/whatever/vs+code+contains+emphasized+items
 • Make Git page more aesthetically appealing https://github.com/atomiks/tippyjs
 • License, update readme, example below https://github.com/atomiks/tippyjs/blob/master/LICENSE
 *(This project is released under the [MIT license](https://raw.github.com/paulkinzett/toolbar/master/LICENSE.txt).)*
@@ -27,18 +26,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+---Resources---
+tippy.js - https://atomiks.github.io/tippyjs/v5/animations/
 
 
-
-
-
-
-
-
-
-
-
-
+---Dashboards---
 Dashboards.html
 <!-- Covid
 John Hopkins https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR1l6VMg9ww8xS1Cqi0YwOLZqnwfaa8tK-LZQUvMbkv9bNnxiC2piDJBqJI#/bda7594740fd40299423467b48e9ecf6
