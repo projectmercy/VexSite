@@ -10,8 +10,9 @@
 • refine tooltips https://atomiks.github.io/tippyjs/
 • Snowflake/JS button [cycle] https://sebhastian.com/javascript-change-background-image/
 • Try different font famalies https://fonts.google.com/noto/specimen/Noto+Sans+JP
-
-
+• href vs src when refering to externally loaded css page in html
+• Sync chrome history across devices
+• Embed website as desktop background
 
 
 
