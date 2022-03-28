@@ -2,7 +2,7 @@
 • ft home logo that changes color each page click
 • collapsable/drag and drop iframes for dashboard page - cached? dashboard list?
 • imbed web browser (side by side html loading) in a data explorer page
-• embedded tweets on news page
+• embedded tweets/widgets/iframes on news page
 • iframe websites that don't allow and/or screenshot websites and embed
 • retractable nav bar https://codetheweb.blog/style-a-navigation-bar-css/
 • URL page visibility
