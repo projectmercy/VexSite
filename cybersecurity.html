@@ -72,10 +72,16 @@
     <script src="js/hover.js"></script>
 
     <script>
-        function cycle() {
-            document.body.style.backgroundImage = "url(https://thumbs.gfycat.com/AdoredWindingIberianbarbel-size_restricted.gif)";
-         }
-    
+      let snowOn = true;
+      function cycle() {
+        if (snowOn) {
+          document.body.style.backgroundImage = "";
+          snowOn = false;
+        } else {
+          document.body.style.backgroundImage = "url(https://thumbs.gfycat.com/AdoredWindingIberianbarbel-size_restricted.gif)";
+          snowOn = true;
+        }
+      }
     </script>
 
 </body>

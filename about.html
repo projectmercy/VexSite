@@ -28,11 +28,17 @@
     <script src="js/hover.js"></script>
 
     <script>
+        let snowOn = true;
         function cycle() {
+          if (snowOn) {
+            document.body.style.backgroundImage = "";
+            snowOn = false;
+          } else {
             document.body.style.backgroundImage = "url(https://thumbs.gfycat.com/AdoredWindingIberianbarbel-size_restricted.gif)";
-         }
-    
-    </script>
+            snowOn = true;
+          }
+        }
+      </script>
 
 </body>
 </html>
